@@ -1,10 +1,11 @@
 # blockchain-web3-link-shield
 Projeto de Encurtador de URL - LinkShield
+URL Shortener Project - LinkShield
 
-Tecnologias: Solidity(language), blockchain, Web3, NodeJS, NextJS, Remix Ethereum IDE e MetaMask
+# Tecnologias(Technologies): 
+Solidity(language), blockchain, Web3, Remix Ethereum IDE, NodeJS, NextJS, Bootstrap e MetaMask Wallet.
 
-smart-contract
-LinkShield.sol smart contract.
+# Tarefa(Tasks):
+Smart-contract: LinkShield.sol
 
-dapp
-LinkShield web3 frontend.
+dApp: LinkShield project, web3 frontend.
