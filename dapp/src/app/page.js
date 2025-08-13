@@ -1,6 +1,6 @@
 "use client"
 import { useState } from "react";
-import hash from "object-hash"
+import hash from "object-hash";
 import { addLink, connectContract } from "@/services/Web3Service";
 
 
